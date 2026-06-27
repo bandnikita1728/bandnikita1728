@@ -43,11 +43,7 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bandnikita1728&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bandnikita1728&theme=dark&hide_border=false&layout=compact)
 
----
 
 # 🏆 Highlights:
 - 🤖 Built **DevFlow CI** — AI code reviewer processing GitHub PRs with <50ms gateway response via BullMQ async pipeline
