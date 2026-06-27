@@ -3,7 +3,7 @@
 
 ---
 
-# 💫 About Me:
+#  About Me:
 🔭 I'm currently working on **DevFlow CI V2** — AI-powered GitHub PR code reviewer with circuit breaker, Prometheus/Grafana monitoring & horizontal worker scaling, and a **RAG-based AI Personal Knowledge Assistant** using NestJS, Next.js, pgvector & AWS S3.
 
 👯 I'm looking to collaborate on full-stack and AI-integrated projects, backend systems, and open-source contributions.
